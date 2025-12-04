@@ -4,7 +4,7 @@
   <h3>MERN Stack Developer | Web Developer | WordPress</h3>
   
   <p>
-    I craft full-stack applications, automate boring tasks with Python, and explore the depths of Data Structures. 
+    I craft full-stack applications and explore the depths of Data Structures. 
     Currently focused on building scalable backend systems and interactive MERN frontends.
   </p>
   
@@ -35,6 +35,8 @@
 
 ### 💎 Featured Projects
 
+<div align="center">
+
 | Project | Tech Stack | Description | Source |
 | :--- | :---: | :--- | :---: |
 | **LinkAPP** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Efficient link management tool (and Chat App prototype). | [View](https://github.com/SMKanzuleman/LinkAPP) |
@@ -42,16 +44,22 @@
 | **Backend SQL** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square) | Full CRUD operations demonstrating SQL integration. | [View](https://github.com/SMKanzuleman/Backend-with-Sql) |
 | **Cat Fact Gen** | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square) ![API](https://img.shields.io/badge/API-000000?style=flat-square) | Fetches random cat facts via API with a clean UI. | [View](https://github.com/SMKanzuleman/Random-Cat-Fact-Generator) |
 
+</div>
+
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SMKanzuleman&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMKanzuleman&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMKanzuleman&theme=radical&hide_border=true" alt="streak" />
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SMKanzuleman&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMKanzuleman&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SMKanzuleman&theme=radical&hide_border=true" alt="streak" />
+
 </div>
 
 <div align="center">
