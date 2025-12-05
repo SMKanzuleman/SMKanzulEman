@@ -43,7 +43,7 @@
 | **Blog Manager** | ![Node](https://img.shields.io/badge/Node-43853D?style=flat-square) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square) | RESTful API to Create, Read, Update, and Delete blog posts. | [View](https://github.com/SMKanzuleman/REST-APis-Basic-BlogPost-Manager) |
 | **Backend SQL** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square) | Full CRUD operations demonstrating SQL integration. | [View](https://github.com/SMKanzuleman/Backend-with-Sql) |
 | **Cat Fact Gen** | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square) ![API](https://img.shields.io/badge/API-000000?style=flat-square) | Fetches random cat facts via API with a clean UI. | [View](https://github.com/SMKanzuleman/Random-Cat-Fact-Generator) |
-| **Dategen** | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square) ![API](https://img.shields.io/badge/API-000000?style=flat-square) | A personal problem sovling project whihc download custom xls files containing recquired columns in single click. | [View](https://github.com/SMKanzuleman/Random-Cat-Fact-Generator) |
+| **Dategen** | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square) ![API](https://img.shields.io/badge/API-000000?style=flat-square) | A personal problem sovling project whihc download custom xls files containing recquired columns in single click. | [View](https://github.com/SMKanzuleman/Dategen) |
 
 </div>
 
