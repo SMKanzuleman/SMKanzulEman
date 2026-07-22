@@ -8,7 +8,7 @@
     Currently focused on building scalable backend systems and interactive MERN frontends.
   </p>
   
-  <a href="https://kanzuleman.thetechxpo.com">
+  <a href="https://kanzulbuilds.vercel.app/#">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
