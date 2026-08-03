@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, I'm KanzulEman</h1>
 
-  <h3>MERN Stack Developer | Web Developer | WordPress</h3>
+  <h3>MERN Stack | Web Development | WordPress</h3>
   
   <p>
     I craft full-stack applications and explore the depths of Data Structures. 
