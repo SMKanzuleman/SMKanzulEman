@@ -47,29 +47,4 @@
 
 </div>
 
----
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SMKanzuleman&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMKanzuleman&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SMKanzuleman&theme=radical&hide_border=true" alt="streak" />
-
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=SMKanzuleman&color=F75C7E&style=flat-square&label=Profile+Views" alt="views" />
-</div>
-
----
-
-<div align="center">
-  <i>Let's connect and build something amazing together!</i>
-</div>
